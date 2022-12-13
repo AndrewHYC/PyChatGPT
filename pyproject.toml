@@ -10,7 +10,7 @@ authors = [
 ]
 description = "⚡️TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.7"
 dependencies = [
   "tls-client",
   "requests",
